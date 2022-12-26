@@ -2,6 +2,9 @@
 
 <a href="https://boutique-ado-proj.herokuapp.com/" target="_blank" rel="noopener" alt="Boutique Ado, click here to open the website"><img src="media/responsive.jpg" alt="Boutique Ado" max-height="650px" max-width="1300px"></a>
 <hr>
+
+## This a  walkthrough project from Code Institute.
+
 GitHub repository can be found 
 <a href="https://github.com/petrugio/boutique_ado_v1" target="_blank" rel="noopener">here</a>
 
